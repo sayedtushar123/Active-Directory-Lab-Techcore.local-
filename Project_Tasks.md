@@ -100,7 +100,7 @@ This file is a step-by-step record of my Active Directory lab project. The lab w
 * Event Viewer logs showing auditing events
 * 
 
-10\. tatus Summary
+10\. Status Summary
 
 * Domain setup: Complete
 * OUs, users, groups: Complete
